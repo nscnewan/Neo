@@ -51,14 +51,5 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
-    }).state('app.viewissues2', {
-        views: {
-            app: {
-                controller: 'app_viewissues2',
-                templateProvider: function (app) {
-                    return app.templateProvider('app.viewissues2');
-                }
-            }
-        }
     });
 });
