@@ -42,5 +42,22 @@
         }
       }
     }
+  },
+  "viewissues": {
+    "type": "object",
+    "comment": "",
+    "properties": {
+      "issueList": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
   }
 }
