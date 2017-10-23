@@ -42,5 +42,14 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
+    }).state('app.viewdetails', {
+        views: {
+            app: {
+                controller: 'app_viewdetails',
+                templateProvider: function (app) {
+                    return app.templateProvider('app.viewdetails');
+                }
+            }
+        }
     });
 });
