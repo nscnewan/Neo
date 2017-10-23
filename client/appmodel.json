@@ -54,6 +54,12 @@
           "properties": {
             "id": {
               "type": "string"
+            },
+            "status": {
+              "type": "string"
+            },
+            "summary": {
+              "type": "string"
             }
           }
         }
