@@ -4,5 +4,11 @@
   "defaultLayout": "phone-portrait",
   "previewToken": "de464571",
   "uiCommonVersion": "5.2.1",
-  "creatorId": "nscnewan"
+  "creatorId": "nscnewan",
+  "id": "neo",
+  "previewImageURL": "/previews/de464571-neo/app/blank.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/nscnewan/Neo",
+  "creatorName": "Neo Wang",
+  "sdks": []
 }
