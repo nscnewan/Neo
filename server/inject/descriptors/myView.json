@@ -1,0 +1,16 @@
+{
+  "type": "object",
+  "properties": {
+    "isMyView": {
+      "type": "identifier",
+      "selector": ".subtle[href*='view']",
+      "control": "exists"
+    },
+    "viewIssuesLink": {
+      "type": "action",
+      "selector": "body",
+      "control": "property.innerText"
+    }
+  },
+  "connect": []
+}
