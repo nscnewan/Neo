@@ -31,7 +31,9 @@
       "label": "errorMessage",
       "update": {
         "type": "none"
-      }
+      },
+      "selector": "font[color=‘red’]",
+      "control": "text"
     },
     "submit": {
       "type": "action",
