@@ -54,5 +54,12 @@
       "control": "exists"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "isLogin"
+      ],
+      "action": "submit"
+    }
+  ]
 }
