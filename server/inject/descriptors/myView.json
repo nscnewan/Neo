@@ -4,7 +4,8 @@
     "isMyView": {
       "type": "identifier",
       "selector": ".subtle[href*='view_all_set.php']",
-      "control": "exists"
+      "control": "exists",
+      "selectContains": "Assigned to Me"
     },
     "viewIssuesLink": {
       "type": "action",
