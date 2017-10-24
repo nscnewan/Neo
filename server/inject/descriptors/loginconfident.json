@@ -43,12 +43,12 @@
           "type": "string"
         }
       },
-      "selector": ".button[\"value='Login'\"]",
-      "control": "action.button"
+      "selector": ".button[value='Login']",
+      "control": "exists"
     },
     "isLogin": {
       "type": "identifier",
-      "selector": ".button[\"value='Login'\"]",
+      "selector": ".button[value='Login']",
       "control": "exists"
     }
   },
