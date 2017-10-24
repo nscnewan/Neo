@@ -8,8 +8,9 @@
     },
     "viewIssuesLink": {
       "type": "action",
-      "selector": "body",
-      "control": "property.innerText"
+      "selector": "a",
+      "control": "action.link",
+      "selectContains": "View Issues"
     }
   },
   "connect": []
