@@ -3,7 +3,7 @@
   "properties": {
     "isMyView": {
       "type": "identifier",
-      "selector": ".subtle[href*='view']",
+      "selector": ".subtle[href*='view_all_set.php']",
       "control": "exists"
     },
     "viewIssuesLink": {
