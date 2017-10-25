@@ -6,7 +6,9 @@
       "type": "select",
       "update": {
         "type": "none"
-      }
+      },
+      "selector": "[name=\"category_id\"]",
+      "control": "select"
     },
     "Description": {
       "type": "string",
