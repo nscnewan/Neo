@@ -139,7 +139,10 @@
     "comment": "",
     "properties": {
       "Category": {
-        "type": "select"
+        "type": "select",
+        "update": {
+          "type": "none"
+        }
       },
       "Description": {
         "type": "string"
