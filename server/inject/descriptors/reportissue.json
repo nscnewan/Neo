@@ -33,6 +33,9 @@
       "selector": "a[href='/mantisbt/view_all_bug_page.php']",
       "control": "action.link",
       "selectContains": "View Issues"
+    },
+    "Summary": {
+      "type": "string"
     }
   },
   "connect": [
