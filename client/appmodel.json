@@ -146,6 +146,9 @@
         "update": {
           "type": "none"
         }
+      },
+      "ReportIssue": {
+        "type": "action"
       }
     }
   }
