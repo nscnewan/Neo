@@ -136,10 +136,16 @@
     "comment": "",
     "properties": {
       "Category": {
-        "type": "select"
+        "type": "select",
+        "update": {
+          "type": "none"
+        }
       },
       "Description": {
-        "type": "string"
+        "type": "string",
+        "update": {
+          "type": "none"
+        }
       }
     }
   }
