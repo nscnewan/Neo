@@ -72,6 +72,9 @@
       "type": "identifier",
       "selector": "#buglist",
       "control": "exists"
+    },
+    "ReporIssueLink": {
+      "type": "action"
     }
   },
   "connect": [

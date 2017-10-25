@@ -1,0 +1,22 @@
+{
+  "type": "object",
+  "comment": "",
+  "properties": {
+    "Category": {
+      "type": "select",
+      "update": {
+        "type": "none"
+      }
+    },
+    "Description": {
+      "type": "string",
+      "update": {
+        "type": "none"
+      }
+    },
+    "ReportIssue": {
+      "type": "action"
+    }
+  },
+  "connect": []
+}
