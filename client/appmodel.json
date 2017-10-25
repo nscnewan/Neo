@@ -152,6 +152,9 @@
       },
       "ReportIssue": {
         "type": "action"
+      },
+      "BackToIssueList": {
+        "type": "action"
       }
     }
   }
