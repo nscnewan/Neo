@@ -16,6 +16,11 @@
     },
     "ReportIssue": {
       "type": "action"
+    },
+    "isReporIssue": {
+      "type": "identifier",
+      "selector": ".button[value='Submit Report']",
+      "control": "exists"
     }
   },
   "connect": []
