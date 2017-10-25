@@ -41,6 +41,12 @@
       "sourceScreenId": "app.tableviewadvanced.tableviewadvancedconfident",
       "sourceAppId": "universaltemplates",
       "model": "viewissues2"
+    },
+    {
+      "id": "reprotissue",
+      "name": "ReprotIssue",
+      "sourceScreenId": "app.blank",
+      "sourceAppId": "_blank"
     }
   ],
   "sourceAppId": "_blank",
