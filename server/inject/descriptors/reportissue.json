@@ -35,7 +35,9 @@
       "selectContains": "View Issues"
     },
     "Summary": {
-      "type": "string"
+      "type": "string",
+      "selector": "[name=\"summary\"]",
+      "control": "text"
     }
   },
   "connect": [
