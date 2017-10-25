@@ -15,7 +15,9 @@
       }
     },
     "ReportIssue": {
-      "type": "action"
+      "type": "action",
+      "selector": ".button[value='Submit Report']",
+      "control": "action.button"
     },
     "isReporIssue": {
       "type": "identifier",
