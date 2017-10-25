@@ -154,10 +154,7 @@
         "type": "action"
       },
       "Summary": {
-        "type": "string",
-        "update": {
-          "type": "none"
-        }
+        "type": "string"
       }
     }
   }
