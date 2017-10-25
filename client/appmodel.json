@@ -145,10 +145,7 @@
         }
       },
       "Description": {
-        "type": "string",
-        "update": {
-          "type": "none"
-        }
+        "type": "string"
       },
       "ReportIssue": {
         "type": "action"
