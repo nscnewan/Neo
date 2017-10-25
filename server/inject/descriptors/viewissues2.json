@@ -75,7 +75,7 @@
     },
     "ReporIssueLink": {
       "type": "action",
-      "selector": "a",
+      "selector": "a[href='/mantisbt/bug_report_page.php']",
       "selectContains": "Report Issue",
       "control": "action.link"
     }
