@@ -88,6 +88,12 @@
       "screens": [
         "viewissues2"
       ]
+    },
+    {
+      "match": [
+        "isViewIssues"
+      ],
+      "action": "ReporIssueLink"
     }
   ]
 }
