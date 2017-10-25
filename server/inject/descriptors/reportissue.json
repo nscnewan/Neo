@@ -14,7 +14,9 @@
       "type": "string",
       "update": {
         "type": "none"
-      }
+      },
+      "selector": "[name=\"description\"]",
+      "control": "text"
     },
     "ReportIssue": {
       "type": "action",
